@@ -1,7 +1,7 @@
 # OSR Random Stat Generator
 
 ## About
-Project to quickly generate stat-blocks for OSR games. I use it to create sheets of random stats which my players may use to quickly get started creating their OSR (and other retro-clone D&D game) characters.
+Project to quickly generate stat-blocks for OSR (Old School Roleplaying) games. I use it to create sheets of random stats which my players may use to quickly get started creating their LoTFP (and other retro-clone D&D game) characters.
 
 ## Install
 Should run without any additional libraries with python 3.6+. Possibly might run with Python 2 (untested, but hey, you should should upgrade!)
